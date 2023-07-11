@@ -1,0 +1,37 @@
+h1 {
+    background: lawngreen;
+    color: red;
+}
+
+.paragraph-gb {
+    background: blue;
+    font-size: 32pt;
+    color: green;
+}
+
+.paragraph-2 {
+    background: grey;
+    border-radius: 5px;
+    border-color: brown;
+    font-size: 24pt;
+    width: 50%;
+    border-width: 5px;
+}
+
+.div-1 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20pt;
+    margin-left: 60px;
+    text-align: left;
+    font-style: italic;
+    color: black;
+}
+
+.image-1 {
+    border-radius: 55px;
+
+}
+
+body {
+    background-image: url('');
+}
