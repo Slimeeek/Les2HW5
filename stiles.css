@@ -35,3 +35,9 @@ h1 {
 body {
     background-image: url('');
 }
+.paragraph_HW {
+    font-style: italic;
+    text-align: center;
+    font-size: 24px;
+    background: green;
+}
